@@ -2,3 +2,7 @@ h3{
     text-align: center;
     color: blueviolet;
 }
+img{
+   position: absolute;
+   padding-left: 250px;
+}
